@@ -1,4 +1,4 @@
-# IG DMRunner — Landing Website
+# IG DM Runner — Landing Website
 
 A lightweight, static landing page intended for a pre-launch Chrome extension. Hosted on GitHub Pages. No build tools, backend, or JavaScript dependencies.
 
@@ -13,7 +13,7 @@ A lightweight, static landing page intended for a pre-launch Chrome extension. H
 
 1. The contact email in `index.html` is from the connected GitHub account. **Confirm it is okay to publicly display** or replace it with your intended business support email.
 2. Review and formally approve the **draft 14-day refund policy** before accepting any payments.
-3. Replace illustrated previews with real verified IG DMRunner screenshots before advertising released functionality.
+3. Replace illustrated previews with real verified IG DM Runner screenshots before advertising released functionality.
 4. Do not represent a pre-release or unverified automation capability as working, policy-compliant, or approved.
 5. Provide actual Chrome Web Store and checkout links only after those listings exist and have been approved.
 
